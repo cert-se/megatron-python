@@ -1,4 +1,5 @@
 megatron-python
 ===============
 
-Helper scripts in Python for Megatron
+Helper scripts in Python for Megatron.
+
